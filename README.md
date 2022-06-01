@@ -10,6 +10,8 @@ Show the number of bike trips for each type of user and gender for each day of t
 
 # plot no1 :In this image we are showing top starting Locations in NYC
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book1_16541117128290/TopStartingLocations
+
+
 # plot no2 : In this image we are showing top Ending locations in Nyc. we can see that the most active starting locations are also among the most active ending locations.
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book2_16541161667480/TopEndingLocations?publish=yes
 # plot no 3 :In this image we are showing Checkout times for users. we see that most rides are for 20 minutes or less, and that the vast majority of rides are less than one hour.
