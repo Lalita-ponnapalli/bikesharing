@@ -38,4 +38,12 @@ We have analysed that the checkout time for rides are for 20 min or less.
 Timings of weekdays were 9am to 7pm and 5pm to 7pm.
 Timings of weekends area around 10am to 6pm.
 Male bikers are more than the female bikers.
+# Additional visualizations
+# plot 8
+https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book9_16541209209330/Sheet15
+ n this image we are analysing the bikers by birth date and we get to know that the higest number of bikers around  237533  are born in 1969. We need to do more analysing to get to know the reason.
+ 
+ # plot 9
+ https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book10_16541225811050/usertypebygender?publish=yes
+ In this image we are showing usertype by gender. We get to know that the male subscribers are far more than the female subscribers. 
 
