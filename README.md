@@ -42,7 +42,7 @@ Male bikers are more than the female bikers.
 # Additional visualizations
 
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book9_16541209209330/Sheet15
-### plot 8 in this image we are analysing the bikers by birth date and we get to know that the higest number of bikers around  237533  are born in 1969. We need to do more analysing to get to know the reason.
+### plot 8 in this image we are analysing the bikers by birth date and we get to know that the higest number of bikers around  237533  are born in 1969. We need to do more analysis to get to know the reason.
  
 
  https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book10_16541225811050/usertypebygender?publish=yes
