@@ -43,6 +43,8 @@ In this image we are showing Checkout times for users. we see that most rides ar
 
 link to Checkout times by genders:
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book4_16541175673460/CheckoutTimesbyGenders?publish=yes
+![image](https://user-images.githubusercontent.com/100485119/172713302-a36a81d5-a55b-4894-9c62-5e4687058f5c.png)
+
 ### plot no 4
 In this image we are showing Checkout times by genders. we see that most rides are for 20 minutes or less, and that the vast majority of rides are less than one hour and pattern is the same regardless of gender.
 
