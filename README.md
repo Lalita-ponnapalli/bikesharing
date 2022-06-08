@@ -67,6 +67,8 @@ In this image we are analysing the bikers by birth date and we get to know that 
  
 Link to user type by gender
  https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book10_16541225811050/usertypebygender?publish=yes
+ ![image](https://user-images.githubusercontent.com/100485119/172711849-e76654a2-dba3-4d80-8014-c16baa26c158.png)
+
   ### plot 9 
   In this image we are showing user type by gender. We get to know that the male subscribers are far more than the female subscribers. 
 
