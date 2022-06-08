@@ -16,6 +16,8 @@ We have analysed the pattern of bike users in Nyc. For that we research about to
 
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/NewyorkCityBikes
 ## link to Tableau Workbook.
+![image](https://user-images.githubusercontent.com/100485119/172712532-e2869f76-e47e-4e0b-b3d7-fad5ded0e937.png)
+****
 
 ## Results
 link to top starting Locations:
