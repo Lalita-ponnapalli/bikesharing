@@ -57,6 +57,8 @@ In this image we are showing Trips by Weekday per hour. We can see that in the w
 
 link to top  Trips by genders:
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book6_16541185658600/TripsbyGenderweekdayperhour?publish=yes
+![image](https://user-images.githubusercontent.com/100485119/172713488-ed561438-c85f-4562-b810-e0cc39d0007b.png)
+
 ### Plot no 6 
 In this image we are showing Trips by genders. We can see that in this programe male bikers are lot more than the female bikers.
 
