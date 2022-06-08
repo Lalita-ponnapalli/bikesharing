@@ -22,6 +22,8 @@ https://public.tableau.com/app/profile/lalita.ponnapalli/viz/NewyorkCityBikes
 ## Results
 link to top starting Locations:
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book1_16541117128290/TopStartingLocations
+![image](https://user-images.githubusercontent.com/100485119/172712708-ad0eb4cd-fcbe-4db0-87c3-1c1bc55b1801.png)
+
 ### plot no1 
 In this image we are showing top starting Locations in NYC
 
