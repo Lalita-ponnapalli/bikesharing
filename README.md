@@ -52,6 +52,7 @@ https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book7_1654119538983
 In this image we are showing User Trip by Genderby Weekday. We can see that for weekday also pattern is same and the male bikers are more then the female bikers.
 
 # Summary
+Some trips were outside the main city center. Other areas followed the along the river. Future analysis would need to include a geographical review.
 After the analysis we get to the pattern of bike riders. 
 We can see that the the Startpoint and endpoints for bike riders are similar.
 We have analysed that the checkout time for rides are for 20 min or less.
