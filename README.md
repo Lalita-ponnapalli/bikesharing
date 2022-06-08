@@ -36,6 +36,8 @@ In this image we are showing top Ending locations in Nyc. we can see that the mo
 
 link to Checkout times for users:
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book3_16541170252970/CheckoutTimesforUsers?publish=yes
+![image](https://user-images.githubusercontent.com/100485119/172713173-0379d253-8c7e-469f-b10a-79f772ca0082.png)
+
 ### plot no 3 
 In this image we are showing Checkout times for users. we see that most rides are for 20 minutes or less, and that the vast majority of rides are less than one hour.
 
