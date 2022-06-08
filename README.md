@@ -8,8 +8,7 @@ Show the number of bike trips for all riders and genders for each hour of each d
 Show the number of bike trips for each type of user and gender for each day of the week.
 
 link to story:
-https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book8_16541198199230/NYCCitibikeanalysis?publish=yes
-
+https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book2_16541161667480/NYCCitibikeanalysis?publish=yes
 ## Story from tableau
 We have analysed the pattern of bike users in Nyc. For that we research about top Stating Locations and Top Ending Location. Then we research about trops by Weekday per hour, and the gender also.Then we analysed Checkout Times for users and their genders. With this information we can know the top locations , when people are using the bikes most and Checkout times also
 
