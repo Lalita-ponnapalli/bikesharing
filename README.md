@@ -77,6 +77,8 @@ We have analysed that the checkout time for rides are for 20 min or less.
 Timings of weekdays were 9am to 7pm and 5pm to 7pm.
 Timings of weekends area around 10am to 6pm.
 Male bikers are more than the female bikers.
+We would recommend further analysis for a few points. Firstly, while we've seen that the vast majority of trips are 30 min or less, we should perform further analysis to compare weekend trip durations to weekday trip durations. We should also look further into the patterns of useage for the bicycles that see the heaviest use, perhaps preparing maps showing all of the starting/ending routes/locations for the heaviest use bikes. We should also prepare a visualization to determine if there are specific locations that are completely unused.
+
 # Additional visualizations
 Link to biker by birh date
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book9_16541209209330/Sheet15
