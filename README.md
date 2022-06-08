@@ -29,6 +29,8 @@ In this image we are showing top starting Locations in NYC
 
 link to top Ending Locations:
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book2_16541161667480/TopEndingLocations?publish=yes
+![image](https://user-images.githubusercontent.com/100485119/172712960-0ecb2d51-33e7-4067-bd18-d22cfa2bdaa7.png)
+
 ### plot no2  
 In this image we are showing top Ending locations in Nyc. we can see that the most active starting locations are also among the most active ending locations.
 
