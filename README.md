@@ -64,6 +64,8 @@ In this image we are showing Trips by genders. We can see that in this programe 
 
 link to Trip by Genderby Weekday:
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book7_16541195389830/UserTripsbyGenderbyWeekday?publish=yes
+![image](https://user-images.githubusercontent.com/100485119/172713583-b3bee2f9-3a62-4c31-bb47-c9801e7e1f5d.png)
+
 ### Plot no 7
 In this image we are showing User Trip by Genderby Weekday. We can see that for weekday also pattern is same and the male bikers are more then the female bikers.
 
