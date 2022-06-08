@@ -50,6 +50,8 @@ In this image we are showing Checkout times by genders. we see that most rides a
 
 link to trips Weekday per hour:
 https://public.tableau.com/app/profile/lalita.ponnapalli/viz/Book5_16541179370430/Tripsbyweekdayperhour?publish=yes
+![image](https://user-images.githubusercontent.com/100485119/172713389-5d9f046f-4414-4f91-8b39-92f4f9acab24.png)
+
 ### plot no 5
 In this image we are showing Trips by Weekday per hour. We can see that in the week days the most rides are around 6am to 9am and 5pm to 7pm but for the weekends we can see that most rides are showing for the time 10 am to 6pm.
 
